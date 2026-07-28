@@ -28,12 +28,12 @@ El objetivo principal es comprender el funcionamiento de una plataforma **Backen
 
 | Campo              | Información |
 | ------------------ | ----------- |
-| Nombre(s)          |             |
-| Apellido(s)        |             |
-| Correo Electrónico |             |
-| Asignatura         |             |
-| Docente            |             |
-| Fecha de Entrega   |             |
+| Nombre(s)          | Gerson Balmore            |
+| Apellido(s)        | Benito Vásquez            |
+| Correo Electrónico | gersonbenito36@gmail.com            |
+| Asignatura         |  Desarrollo web 1           |
+| Docente            |  Vladimir Mate           |
+| Fecha de Entrega   | 27 Julio del 2026            |
 
 ---
 
@@ -120,17 +120,18 @@ js/app.js
 
 ### Registro de Usuario
 <img width="657" height="596" alt="Captura de pantalla 2026-07-27 192927" src="https://github.com/user-attachments/assets/d61ff96b-9f24-4be7-bd85-f063e819c56b" />
+<img width="696" height="629" alt="Captura de pantalla 2026-07-27 193006" src="https://github.com/user-attachments/assets/2278bd85-5c08-487f-8fec-56a1cfa97567" />
 
-
-Agregar captura aquí.
 
 ### Inicio de Sesión
 
-Agregar captura aquí.
+<img width="671" height="627" alt="Captura de pantalla 2026-07-27 193121" src="https://github.com/user-attachments/assets/14de99dd-09aa-4310-b067-ae33b5ee986f" />
+
 
 ### Dashboard
 
-Agregar captura aquí.
+<img width="891" height="650" alt="Captura de pantalla 2026-07-27 193159" src="https://github.com/user-attachments/assets/9a57fe0f-5726-41ac-937f-a2fe808cc990" />
+
 
 ---
 
@@ -147,9 +148,7 @@ Agregar captura aquí.
 ---
 
 ## ✍️ Observaciones
-
-Espacio para comentarios, dificultades encontradas, mejoras implementadas o aprendizajes obtenidos durante el desarrollo del laboratorio.
-
+Muy buena práctica, bastante dinámica, ayuda a descrubrir nuevos conceptos
 ---
 
 ## 📄 Licencia
