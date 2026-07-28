@@ -119,6 +119,8 @@ js/app.js
 ## 📸 Capturas de Pantalla
 
 ### Registro de Usuario
+<img width="657" height="596" alt="Captura de pantalla 2026-07-27 192927" src="https://github.com/user-attachments/assets/d61ff96b-9f24-4be7-bd85-f063e819c56b" />
+
 
 Agregar captura aquí.
 
